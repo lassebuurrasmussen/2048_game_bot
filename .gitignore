@@ -1,0 +1,21 @@
+100Kgames.model.data-00000-of-00001
+100Kgames.model.index
+100Kgames.model.meta
+10Kgames.model.data-00000-of-00001
+10Kgames.model.index
+10Kgames.model.meta
+10Kgames2.model.data-00000-of-00001
+10Kgames2.model.index
+10Kgames2.model.meta
+__pycache__/
+checkpoint
+format of training data.txt
+log.txt
+making_nn_model.py
+models/
+my_2048_game copy 2.py
+my_2048_game copy.py
+my_2048_game.py
+my_tools/
+using_nn_model.py
+
